@@ -11,8 +11,11 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             string nome = "sávio";
+            int idade = 18;
 
             Console.WriteLine(nome);
+            Console.WriteLine(idade);
         }
+
     }
 }
